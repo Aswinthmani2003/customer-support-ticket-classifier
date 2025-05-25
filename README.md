@@ -56,7 +56,7 @@ We used traditional machine learning specifically for the purpose of clearer und
 3. Go ahead and run every cell in the code.
 4. As soon as you finish, the Gradio interface will show up along with a public link.
 5. Glue the stickers and watch to see what happens.
-
+6. Google Colab Link: https://colab.research.google.com/drive/1v9O8sWGYj4iuqvWHTH1K198FQUj0h33o?usp=sharing
 
 🎥 Demo Video
 
