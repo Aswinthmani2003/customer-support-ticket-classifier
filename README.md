@@ -71,3 +71,8 @@ All models were built using basic ML requirements, as deep learning is not prese
 
 🎥 Gradio App Link
 https://b3b02ba742c6838030.gradio.live/
+
+## Sample Output
+
+![image](https://github.com/user-attachments/assets/8f27a9bb-2425-433c-b646-3e199eeb59ec)
+
